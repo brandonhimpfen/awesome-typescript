@@ -43,6 +43,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## TypeScript Libraries
 
+- **[crc-engine](https://github.com/zzeura/crc-engine)** - Zero-dependency CRC-8/16/32/64 calculation engine supporting 70 algorithms, written in pure TypeScript.
 - **[fp-ts](https://github.com/gcanti/fp-ts)** - Functional programming in TypeScript.
 - **[io-ts](https://github.com/gcanti/io-ts)** - A runtime type system for TypeScript.
 - **[tslib](https://www.npmjs.com/package/tslib)** - Runtime library for TypeScript helpers.
