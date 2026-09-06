@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[tslib](https://www.npmjs.com/package/tslib)** - Runtime library for TypeScript helpers.
 - **[ts-toolbelt](https://github.com/millsp/ts-toolbelt)** - A comprehensive type library for TypeScript.
 - **[class-transformer](https://github.com/typestack/class-transformer)** - A library for transforming plain objects into class objects and vice versa.
+- **[InferDI](https://github.com/inferdi/inferdi)** - A zero-dependency, decorator-free, strongly typed dependency injection container for modern TypeScript.
 
 ## TypeScript Frameworks
 
