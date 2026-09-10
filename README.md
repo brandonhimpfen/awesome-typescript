@@ -91,6 +91,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Frontend Masters: TypeScript](https://frontendmasters.com/courses/typescript/)** - Comprehensive TypeScript tutorials.
 - **[You Don’t Know JS Yet: TypeScript Edition](https://github.com/getify/You-Dont-Know-JS)** - A book series exploring JavaScript and TypeScript concepts.
 - **[FreeCodeCamp TypeScript Course](https://www.freecodecamp.org/)** - Free lessons on using TypeScript.
+- **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)** - A free and open-source reference for TypeScript fundamentals and practical patterns.
 
 ## Community and Forums
 
