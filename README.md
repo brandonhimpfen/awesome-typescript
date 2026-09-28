@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[ts-toolbelt](https://github.com/millsp/ts-toolbelt)** - A comprehensive type library for TypeScript.
 - **[class-transformer](https://github.com/typestack/class-transformer)** - A library for transforming plain objects into class objects and vice versa.
 - **[InferDI](https://github.com/inferdi/inferdi)** - A zero-dependency, decorator-free, strongly typed dependency injection container for modern TypeScript.
+- **[Subscrio](https://github.com/subscrio/subscrio-typescript)** - Embedded entitlement engine for subscription plans, feature access, numeric limits, and customer overrides, backed by PostgreSQL.
 
 ## TypeScript Frameworks
 
